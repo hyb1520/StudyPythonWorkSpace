@@ -1,5 +1,5 @@
-a = 100
-if a >=0:
-    print(a)
-else:
-    print(-a)
+#!/usr/bin/env python3
+# -*-coding:utf-8-*-
+
+list1 = [1, 2, 3, 4, 5, 3, 21]
+print(list1)
